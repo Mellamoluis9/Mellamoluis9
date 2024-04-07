@@ -22,7 +22,7 @@ Soy estudiante de la carrera de Ingeniería en Sistemas en la Universidad Marian
 ### Encuéntrame en otras plataformas:
 - 🕹️ Twitch: [Twitch.tv/mellamoluis16](https://twitch.tv/mellamoluis16)
 - 📷 Instagram: [Instagram.com/mellamoluis16](https://instagram.com/mellamoluis16)
-- 🔗 Discord: [Únete a nuestro servidor de Discord](https://discord.gg/kmpW9mJB)
+- 🔗 Discord: [Únete a nuestro servidor de Discord](https://discord.gg/shpqKt8Z4R)
 
 ### Contacto:
 - 📧 Correo electrónico: [tu@email.com](esluis97@gmail.com)
