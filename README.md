@@ -22,12 +22,11 @@ Soy estudiante de la carrera de Ingeniería en Sistemas en la Universidad Marian
 ### Encuéntrame en otras plataformas:
 - 🕹️ Twitch: [Twitch.tv/mellamoluis16](https://twitch.tv/mellamoluis16)
 - 📷 Instagram: [Instagram.com/mellamoluis16](https://instagram.com/mellamoluis16)
-- 🐙 GitHub: [GitHub.com/mellamoluis9](https://github.com/mellamoluis9)
 - 🔗 Discord: [Únete a nuestro servidor de Discord](https://discord.gg/kmpW9mJB)
 
 ### Contacto:
-- 📧 Correo electrónico: [tu@email.com](mailto:tu@email.com)
-- 🔗 LinkedIn: [linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil)
-- 🐦 Twitter: [@tuusuario](https://twitter.com/tuusuario)
+- 📧 Correo electrónico: [tu@email.com](esluis97@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/tuperfil](https://www.linkedin.com/in/lmellamoluis16/)
+
 
 ¡Gracias por visitar mi perfil de GitHub! Estoy emocionado por las oportunidades de colaboración y aprendizaje que puedan surgir. ¡No dudes en contactarme para cualquier consulta o proyecto interesante!
