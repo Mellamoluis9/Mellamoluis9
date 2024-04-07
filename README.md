@@ -23,7 +23,6 @@ Soy estudiante de la carrera de Ingeniería en Sistemas en la Universidad Marian
 - <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="24" height="24"/> MongoDB
 - <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" width="24" height="24"/> MySQL
 
-
 ### Encuéntrame en otras plataformas:
 - 🕹️ Twitch: [Twitch.tv/mellamoluis16](https://twitch.tv/mellamoluis16)
 - 📷 Instagram: [Instagram.com/mellamoluis16](https://instagram.com/mellamoluis16)
