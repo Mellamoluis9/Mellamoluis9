@@ -1,19 +1,11 @@
 # ¡Hola, soy Luis! 👋
 
-Soy estudiante de la carrera de Ingeniería en Sistemas en la Universidad Mariano Gálvez de Guatemala. Me apasiona la tecnología y estoy en constante aprendizaje para convertirme en un desarrollador web Full Stack Jr.
-
-### Sobre mí:
-- 💻 Desarrollador Web Full Stack Jr
-- 🌐 Divulgador de Programación en Español
-- 👨‍🏫 Impulsando jóvenes talentos en IT
+Soy estudiante de Ingeniería en Sistemas de la Información y Ciencias de la Computación en la Universidad Mariano Gálvez de Guatemala. Tengo conocimientos en lenguajes de programación como Java, C, JavaScript y Python, así como en lenguajes de marcado como HTML5 y CSS. Además, manejo bases de datos MySQL y SQL.
 
 ### Lenguajes y herramientas:
 - <img src="https://img.icons8.com/color/48/000000/html-5.png" width="24" height="24"/> HTML
 - <img src="https://img.icons8.com/color/48/000000/css3.png" width="24" height="24"/> CSS
 - <img src="https://img.icons8.com/color/48/000000/javascript.png" width="24" height="24"/> JavaScript
-- <img src="https://img.icons8.com/color/48/000000/react-native.png" width="24" height="24"/> React.js
-- <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="24" height="24"/> Node.js
-- <img src="https://img.icons8.com/ios-filled/50/000000/expressjs.png" width="24" height="24"/> Express
 - <img src="https://img.icons8.com/color/48/000000/python.png" width="24" height="24"/> Python
 - <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="24" height="24"/> C++
 - <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="24" height="24"/> C#
