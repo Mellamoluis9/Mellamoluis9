@@ -16,7 +16,7 @@ Soy estudiante de Ingeniería en Sistemas de la Información y Ciencias de la Co
 - <img src="https://img.icons8.com/color/48/000000/mysql.png" width="24" height="24"/> MySQL
 
 ### Encuéntrame en otras plataformas:
-- 🕹️ Twitch: [Twitch.tv/mellamoluis16](https://twitch.tv/mellamoluis16)
+- 🕹️ Twitch: [Twitch.tv/mellamoluis16](https://twitch.tv/mellamoluis9)
 - 📷 Instagram: [Instagram.com/mellamoluis16](https://instagram.com/mellamoluis16)
 - 🔗 Discord: [https://discord.gg/shpqKt8Z4R](https://discord.gg/shpqKt8Z4R)
 
