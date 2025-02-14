@@ -4,7 +4,7 @@ Soy estudiante de **Ingeniería en Sistemas de la Información y Ciencias de la 
 
 ### 🚀 Tecnologías y herramientas:  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,cs,java,git,github,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,cs,java,git,github,mysql" />
 </p>
 
 ---
