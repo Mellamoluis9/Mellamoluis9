@@ -1,27 +1,30 @@
-# ¡Hola, Me Llamo Luis! 👋
+## ¡Hola, Me Llamo Luis! 👋  
 
-Soy estudiante de Ingeniería en Sistemas de la Información y Ciencias de la Computación en la Universidad Mariano Gálvez de Guatemala. Tengo conocimientos en lenguajes de programación como Java, C, JavaScript y Python, así como en lenguajes de marcado como HTML5 y CSS. Además, manejo bases de datos MySQL y SQL.
+Soy estudiante de **Ingeniería en Sistemas de la Información y Ciencias de la Computación** en la **Universidad Mariano Gálvez de Guatemala**. Tengo experiencia en desarrollo con **Java, C, JavaScript y Python**, además de conocimientos en **HTML5, CSS y bases de datos MySQL y SQL**.  
 
-### Lenguajes y herramientas:
-- <img src="https://img.icons8.com/color/48/000000/html-5.png" width="24" height="24"/> HTML
-- <img src="https://img.icons8.com/color/48/000000/css3.png" width="24" height="24"/> CSS
-- <img src="https://img.icons8.com/color/48/000000/javascript.png" width="24" height="24"/> JavaScript
-- <img src="https://img.icons8.com/color/48/000000/python.png" width="24" height="24"/> Python
-- <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="24" height="24"/> C++
-- <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="24" height="24"/> C#
-- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="24" height="24"/> Java
-- <img src="https://img.icons8.com/color/48/000000/git.png" width="24" height="24"/> Git
-- <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="24" height="24"/> GitHub
-- <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="24" height="24"/> MongoDB
-- <img src="https://img.icons8.com/color/48/000000/mysql.png" width="24" height="24"/> MySQL
+### 🚀 Tecnologías y herramientas:  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,cs,java,git,github,mysql,mongodb" />
+</p>
 
-### Encuéntrame en otras plataformas:
-- 🕹️ Twitch: [Twitch.tv/mellamoluis16](https://twitch.tv/mellamoluis9)
-- 📷 Instagram: [Instagram.com/mellamoluis16](https://instagram.com/mellamoluis16)
-- 🔗 Discord: [https://discord.gg/shpqKt8Z4R](https://discord.gg/shpqKt8Z4R)
+---
+
+### 🌎 Encuéntrame en otras plataformas:  
+
+📖 **Medium:** [mellamoluis16](https://medium.com/@mellamoluis16)  
+📷 **Instagram:** [mellamoluis16](https://instagram.com/mellamoluis16)  
+🐦 **X (Twitter):** [Mellamoluis16](https://twitter.com/Mellamoluis16)  
+📘 **Facebook:** [Mellamoluis16](https://facebook.com/Mellamoluis16)  
+🧵 **Threads:** [Mellamoluis16](https://www.threads.net/@Mellamoluis16)  
+💼 **LinkedIn:** [Mellamoluis16](https://linkedin.com/in/Mellamoluis16)  
+🎮 **Twitch:** [mellamoluis16](https://twitch.tv/mellamoluis16)  
+💬 **Discord:** [Únete a mi servidor](https://discord.gg/shpqKt8Z4R)  
+
+---
+
+Siéntete libre de mejorar esta versión o agregar algo más. ¿Te gustaría que agregara una breve sección de proyectos o intereses? 🚀
 
 ### Contacto:
 - 📧 Correo electrónico: [esluis97@gmail.com](mailto:esluis97@gmail.com)
 - 🔗 LinkedIn: [https://www.linkedin.com/in/lmellamoluis16/](https://www.linkedin.com/in/lmellamoluis16/)
 
-¡Gracias por visitar mi perfil de GitHub! Estoy emocionado por las oportunidades de colaboración y aprendizaje que puedan surgir. ¡No dudes en contactarme para cualquier consulta o proyecto interesante!
